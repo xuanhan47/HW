@@ -1,0 +1,239 @@
+.container {
+    background: #edf2c5;
+    width: 1260px;
+    height: 960px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+.header_Vegetables {
+    position: absolute;
+    margin-top: 53px;
+    padding-left: 160px;
+    font-family: 'Arial Black';
+    color: #778A50;
+    font-size: 44px;
+}
+
+.joinbox {
+    position: absolute;
+    margin-left: 1049px;
+    margin-top: 78px;
+    border-width: 1px;
+    border-radius: 3px;
+    border-style: solid;
+    color: #778A50;
+    background-color: #EDF2C5;
+    width: 50px;
+    height: 25px;
+}
+
+.join {
+    position: absolute; 
+    margin-left: 1058px;
+    margin-top: 63px;
+    font-family:"Arial";
+    color: #778A50;
+}
+
+.loginbox {
+    position: absolute;
+    margin-top: 78px;
+    margin-left: 981px;
+    border-width: 1px;
+    border-radius: 3px;
+    border-style: solid;
+    color: #778A50;
+    background-color: #EDF2C5;
+    width: 60px;
+    height: 25px;
+}
+
+.login {
+    position: absolute; 
+    margin-left: 988px;
+    margin-top: 63px;
+    font-family: "Arial";
+    color: #778A50;
+}
+
+.line01 {
+    position: absolute; 
+    margin-left: 970px;
+    margin-top: 78px;
+    width: 1px;
+    height: 25px;
+    background-color: #778A50;    
+}
+
+.img_fb {
+    position: absolute;
+    margin-left: 900px;
+    margin-top: 81px;
+    width: 25px;
+    height: 25px;
+}
+
+.img_ig {
+    position: absolute;
+    margin-left: 935px;
+    margin-top: 81px;
+    width: 25px;
+    height: 25px;
+}
+
+.nav_box {
+    position: absolute;
+    margin-top: 117px;
+    margin-left: 160px;
+    background-color: #778a50;
+    width: 940px;
+    height: 44px;
+    border-radius: 3px;
+}
+
+.nav_list {
+    list-style: none;
+    position: absolute;
+    margin-left: 160px;
+    margin-top: 127px;
+    font-family: 'Arial Black';
+    color: #EDF2C5;
+    max-width: 940px;
+    height: 44px;
+    display: flex;
+}
+
+.nav_list_item {
+    margin: 0px 30px 11px 30px;
+}
+
+.pumpkin {
+    position: absolute;
+    margin-left: 160px;
+    margin-top: 180px;
+    width: 940px;
+    height: 448px;
+}
+
+.box01 {
+    position: absolute;
+    border-radius: 3px;
+    background-color: #778a50;
+    margin-top: 655px;
+    margin-left: 160px;
+    width: 445px;
+    height: 45px;
+}
+
+.Vegetables {
+    position: absolute;
+    margin-top: 642px;
+    margin-left: 190px;
+    color: #EDF2C5;
+    font-family: 'Arial';
+}
+
+.pepper {
+    position: absolute;
+    margin-top: 712px;
+    margin-left: 160px;
+    width: 140px;
+    height: 140px;
+}
+
+.carrot {
+    position: absolute;
+    margin-top: 712px;
+    margin-left: 312px;
+    width: 140px;
+    height: 140px;
+}
+
+.corn {  
+    position: absolute;
+    margin-top: 712px;
+    margin-left: 464px;
+    width: 140px;
+    height: 140px;
+} 
+
+.box02 {
+    position: absolute;
+    border-radius: 3px;
+    background-color: #778a50;
+    margin-top: 655px;
+    margin-left: 656px;
+    width: 445px;
+    height: 45px;
+}
+
+.Contact {
+    position: absolute;
+    margin-top: 642px;
+    margin-left: 686px;
+    color: #EDF2C5;
+    font-family: 'Arial';
+}
+
+.box03 {
+    position: absolute;
+    margin-top: 712px;
+    margin-left: 656px;
+    width: 445px;
+    height: 140px;
+    background-color: #f7fbda;
+}
+
+.word01 {
+    position: absolute;
+    margin-top: 725px;
+    margin-left: 671px;
+    font-size: 12px;
+    color: #7D7D7D;
+    font-family: 'Arial Regular';
+    line-height: 1.33;
+    font-weight: normal;
+    width: 414px;
+    height: 44px;
+}
+
+.line02 {
+    position: absolute;
+    margin-top: 785px;
+    margin-left: 671px;
+    width: 414px;
+    height: 1px;
+    background-color: #7D7D7D;
+}
+
+.word02 {
+    position: absolute;
+    margin-top: 795px;
+    margin-left: 671px;
+    font-size: 12px;
+    color: #7D7D7D;
+    font-family: 'Arial Regular';
+    line-height: 1.83;
+    font-weight: normal;
+    width: 414px;
+    height: 44px;
+}
+
+.box04 {
+    position: absolute;
+    margin-top: 890px;
+    width: 1264px;
+    height: 60px;
+    background-color: #778A50;
+}
+
+.word03 {
+    position: absolute;
+    margin-top: 914px;
+    margin-left: 480px;
+    font-size: 12px;
+    color: #EDF2C5;
+    font-family: 'Arial Regular';
+}
